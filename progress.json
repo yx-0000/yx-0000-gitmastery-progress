@@ -1,0 +1,36 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787045112.904392,
+    "completed_at": 1787045118.330414,
+    "comments": [
+      "Answer for What is the commit message of the commit 05ce0a24725e16c64f2028dd92d7f4c1705a35fe? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787045182.182054,
+    "completed_at": 1787045192.75144,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787036246.338279,
+    "completed_at": 1787036248.638161,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786948294.515496,
+    "completed_at": 1786948297.629788,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
