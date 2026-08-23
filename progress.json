@@ -1,53 +1,55 @@
 [
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1787045112.904392,
-    "completed_at": 1787045118.330414,
+    "exercise_name": "clone-repo",
+    "started_at": 1787056620.244396,
+    "completed_at": 1787056624.947144,
     "comments": [
-      "Answer for What is the commit message of the commit 05ce0a24725e16c64f2028dd92d7f4c1705a35fe? is not right."
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787057364.08562,
+    "completed_at": 1787057366.859866,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787055669.813751,
+    "completed_at": 1787055674.228246,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787054820.252839,
+    "completed_at": 1787054832.389768,
+    "comments": [
+      "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1787045182.182054,
-    "completed_at": 1787045192.75144,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1787036246.338279,
-    "completed_at": 1787036248.638161,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787054893.30728,
+    "completed_at": 1787054904.873511,
     "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786948294.515496,
-    "completed_at": 1786948297.629788,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787048362.601476,
-    "completed_at": 1787048591.996366,
-    "comments": [
-      "That is not the right Github url!"
+      "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1787048685.38833,
-    "completed_at": 1787048739.437203,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787054937.18557,
+    "completed_at": 1787054947.682244,
     "comments": [
-      "Great work setting up a public remote repository!"
+      "Great work using .gitignore!"
     ],
     "status": "Completed"
   },
@@ -106,6 +108,22 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "log-and-order",
+    "started_at": 1787045112.904392,
+    "completed_at": 1787045118.330414,
+    "comments": [
+      "Answer for What is the commit message of the commit 05ce0a24725e16c64f2028dd92d7f4c1705a35fe? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787045182.182054,
+    "completed_at": 1787045192.75144,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "push-over",
     "started_at": 1787052175.368037,
     "completed_at": 1787052179.068539,
@@ -115,65 +133,39 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787054820.252839,
-    "completed_at": 1787054832.389768,
+    "exercise_name": "remote-control",
+    "started_at": 1787048362.601476,
+    "completed_at": 1787048591.996366,
     "comments": [
-      "You have not committed the relevant changes yet!"
+      "That is not the right Github url!"
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787054893.30728,
-    "completed_at": 1787054904.873511,
+    "exercise_name": "remote-control",
+    "started_at": 1787048685.38833,
+    "completed_at": 1787048739.437203,
     "comments": [
-      "You have not committed the relevant changes yet!"
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787117410.14043,
+    "completed_at": 1787117415.60375,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787054937.18557,
-    "completed_at": 1787054947.682244,
+    "exercise_name": "staging-intervention",
+    "started_at": 1787036246.338279,
+    "completed_at": 1787036248.638161,
     "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1787055669.813751,
-    "completed_at": 1787055674.228246,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1787056620.244396,
-    "completed_at": 1787056624.947144,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1787057364.08562,
-    "completed_at": 1787057366.859866,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "view-commits",
-    "started_at": 1787114872.187479,
-    "completed_at": 1787114874.987597,
-    "comments": [
-      "Great work in viewing and understanding the diff of a specific commit!"
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -187,15 +179,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-update",
-    "started_at": 1787116054.207571,
-    "completed_at": 1787116057.210132,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "tags-push",
     "started_at": 1787116399.66072,
     "completed_at": 1787116403.822116,
@@ -205,13 +188,39 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787117410.14043,
-    "completed_at": 1787117415.60375,
+    "exercise_name": "tags-update",
+    "started_at": 1787116054.207571,
+    "completed_at": 1787116057.210132,
     "comments": [
-      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
-    "status": "Incomplete"
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786948294.515496,
+    "completed_at": 1786948297.629788,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787114872.187479,
+    "completed_at": 1787114874.987597,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787473642.280613,
+    "completed_at": 1787473644.770252,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
