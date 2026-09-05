@@ -581,5 +581,23 @@
       "You have reset the repository to the correct state!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1788595352.451398,
+    "completed_at": 1788595363.071256,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1788595395.337708,
+    "completed_at": 1788595408.110716,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git rev-list main --\n  stderr: 'fatal: detected dubious ownership in repository at 'C:/Users/yx/gitmastery-exercises/sensors-revert/sensors'\n'C:/Users/yx/gitmastery-exercises/sensors-revert/sensors' is owned by:\n\tDESKTOP-NE7KR56/CodexSandboxOnline (S-1-5-21-3150283069-788304199-1576002803-1004)\nbut the current user is:\n\tDESKTOP-NE7KR56/yx (S-1-5-21-3150283069-788304199-1576002803-1001)\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory C:/Users/yx/gitmastery-exercises/sensors-revert/sensors\n'"
+    ],
+    "status": "Error"
   }
 ]
