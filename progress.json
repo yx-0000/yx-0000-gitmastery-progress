@@ -151,16 +151,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787117410.14043,
-    "completed_at": 1787117415.60375,
-    "comments": [
-      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "staging-intervention",
     "started_at": 1787036246.338279,
     "completed_at": 1787036248.638161,
@@ -553,15 +543,5 @@
       "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1788593165.500157,
-    "completed_at": 1788593170.775523,
-    "comments": [
-      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
   }
 ]
